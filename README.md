@@ -1,2 +1,0 @@
-# project-go
-my project
